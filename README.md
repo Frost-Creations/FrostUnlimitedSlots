@@ -14,7 +14,7 @@ This plugin is designed for PocketMine API 5 and is a simple solution to add an 
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/Frost-Creations/FrostUnlimitedSlots) page.
+1. Download the latest release from the [Releases](https://github.com/Frost-Creations/FrostUnlimitedSlots/releases/tag/V1.0.0) page.
 2. Place the downloaded `.phar` file into the `plugins` folder of your PocketMine server.
 3. Restart your server or use a plugin management tool to load the plugin.
 
