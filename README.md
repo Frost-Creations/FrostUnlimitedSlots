@@ -1,7 +1,7 @@
 # Unlimited Players Slots Plugin for PocketMine API 5
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![PocketMine API](https://img.shields.io/badge/PocketMine%20API-5-success.svg)
+![License](https://img.shields.io/badge/license-Apache-blue.svg)
+![PocketMine API](https://img.shields.io/badge/PocketMine%20API-PM5-success.svg)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Just install the plugin, and it will take care of the rest. Players will notice 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
