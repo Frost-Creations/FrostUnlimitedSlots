@@ -1,14 +1,5 @@
-main : AGTHARN\BankUI\Main
-name: MagicBankUI
-version: 1.0.2
-api: 4.0.0
-author: AGTHARN
-depend: [EconomyAPI]
-
-permissions:
-  bankui.cmd:
-    description: Permission to open bank ui
-    default: true
-  bankui.cmd.top:
-    description: Permission to check bank leaderboard
-    default: true
+name: FrostUnlimitedSlots
+api: 5.0.0
+version: 1.0.0
+author: FrostCreations
+main: UnlimitedSlots\Main
