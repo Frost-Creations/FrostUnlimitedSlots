@@ -4,5 +4,5 @@ branches:
 - main
 projects:
   FrostUnlimitedSlots:
-    path: ""
+    path: "FrostUnlimitedSlots/src/UnlimitedSlots/Main.php"
 ...
