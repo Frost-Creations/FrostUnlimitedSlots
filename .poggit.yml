@@ -5,5 +5,5 @@ branches:
 projects:
   FrostUnlimitedSlots:
     path: ""
-    icon: ""
+    icon: "icon.png"
 ...
